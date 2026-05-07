@@ -1,4 +1,4 @@
-# 🇵🇰 Pakistan Fuel Sales & Customer Intelligence Dashboard
+# Pakistan Fuel Sales & Customer Intelligence Dashboard
 
 > A multi-page Power BI dashboard analysing fuel product sales, regional performance, customer behaviour, and revenue forecasting across Pakistan (2016–2018), with projections extending to 2024.
 
