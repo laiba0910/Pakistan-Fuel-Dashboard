@@ -4,13 +4,13 @@
 
 ---
 
-## 📸 Dashboard Preview
+## Dashboard Preview
 
 ![Pakistan Fuel Sales & Customer Intelligence Dashboard](Pakistan-fuel-dashboard.png)
 
 ---
 
-## 📊 Dashboard Pages
+##  Dashboard Pages
 
 | Page | Description |
 |------|-------------|
@@ -23,7 +23,7 @@
 
 ---
 
-## 🔢 Key Metrics
+##  Key Metrics
 
 | Metric | Value |
 |--------|-------|
@@ -38,17 +38,6 @@
 
 ---
 
-## 🗂️ Project Structure
-
-```
-pakistan-fuel-dashboard/
-├── Pakistan_Fuel_Sales_Dashboard.pbix   # Main Power BI file
-├── Pakistan-fuel-dashboard.png          # Dashboard screenshot
-├── README.md
-└── PROJECT_REPORT.docx                  # Full project report
-```
-
----
 
 ## 📦 Dataset
 
@@ -64,11 +53,11 @@ The original dataset was extended with additional custom columns to support fuel
 - `Sales_Channel` (Retail / Industrial)
 - Derived profit and margin fields
 
-> ⚠️ The modified dataset is **not included** in this repository. Please download the original from Kaggle and apply the transformations described in `PROJECT_REPORT.docx`.
+>  The modified dataset is **not included** in this repository. Please download the original from Kaggle and apply the transformations described in `PROJECT_REPORT.docx`.
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 - [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free) — latest version recommended
@@ -117,7 +106,7 @@ Power BI's built-in forecasting generates a projected revenue curve with a 99% c
 
 ---
 
-## 💡 Key Insights
+##  Key Insights
 
 - **Diesel dominates** revenue at 85.77% but carries lower margins vs. Lubricants
 - **Punjab** is the highest-performing region across all metrics
@@ -140,7 +129,7 @@ Power BI's built-in forecasting generates a projected revenue curve with a 99% c
 
 ---
 
-## 📋 Data Dictionary
+##  Data Dictionary
 
 | Field | Description |
 |-------|-------------|
@@ -155,7 +144,7 @@ Power BI's built-in forecasting generates a projected revenue curve with a 99% c
 
 ---
 
-## 📌 Roadmap / Future Improvements
+##  Roadmap / Future Improvements
 
 - [ ] Add customer-level segmentation (RFM analysis)
 - [ ] Integrate live data refresh via Power BI Service
@@ -164,10 +153,6 @@ Power BI's built-in forecasting generates a projected revenue curve with a 99% c
 - [ ] Add competitor pricing overlay to the forecast page
 
 ---
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome. Please open an issue first to discuss proposed changes.
 
 ---
 
